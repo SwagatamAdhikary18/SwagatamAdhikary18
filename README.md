@@ -59,9 +59,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode.netlify" />
