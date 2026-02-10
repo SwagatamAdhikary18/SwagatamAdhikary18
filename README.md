@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&color=gradient&text=Swagatam%20Adhikary&fontSize=52&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=gradient&text=Swagatam%20Adhikary&fontSize=52&fontAlignY=35" />
 </p>
 
 <!-- Animated Header -->
