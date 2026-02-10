@@ -1,5 +1,8 @@
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&color=gradient&text=Swagatam%20Adhikary&fontSize=52&fontAlignY=35" />
+</p>
 
-![logo](https://github.com/SwagatamAdhikary18/swagatamadhikary018/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 <!-- Animated Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Swagatam+Adhikary;A+Frontend+Developer+from+India+🇮🇳;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -62,7 +65,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode.netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 
 ---
 
