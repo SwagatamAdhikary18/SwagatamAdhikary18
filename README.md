@@ -7,7 +7,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Swagatam+Adhikary;A+Frontend+Developer+from+India+🇮🇳;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
-<img align="right"  alt="Coding"  width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right"  alt="Coding"  width="400"  src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"
 <div>
   <h2 align="left" > <img  alt="hi" width="25" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif">  About Me: <h2/>
 </div>
