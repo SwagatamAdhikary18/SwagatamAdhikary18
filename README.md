@@ -49,17 +49,25 @@
 </a>
 </p>
 
+---
 
 <h3 align="center">💻 Languages and Tools:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mongodb,mysql,git,github,netlify" />
-</p>
 
+## 🔧 Tech Stack
 
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwagatamAdhikary18&show_icons=true&locale=en&layout=compact" alt="SwagatamAdhikary18" /></p>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SwagatamAdhikary18&show_icons=true&locale=en" alt="SwagatamAdhikary18" /></p>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode.netlify" />
+
+---
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwagatamAdhikary18" alt="SwagatamAdhikary18" /></p>
 
