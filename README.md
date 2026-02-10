@@ -52,7 +52,7 @@
 
 <h3 align="center">💻 Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,react,nodejs,mongodb,mysql,git,github,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mongodb,mysql,git,github,netlify" />
 </p>
 
 
