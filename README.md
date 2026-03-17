@@ -22,7 +22,7 @@
 
 - 👨‍💻 I’m already on this project on **HEALTHCARE MANAGEMENT SYSTEM(Health Plus) , ONLINE PSYCHOLOGICAL COUNSELING SYSTEM , STUDENT PERFORMANCE TRACKER(Web Application)**
 
-- 🚀 Check out my Personal Portfolio [Portfolio](https://personalportfolio-by-swagatamadhikary.netlify.app/)
+- 🚀 Check out my Personal Portfolio [Portfolio](https://myportfolio-swagatamadhikary.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript and Bootstrap**
 
