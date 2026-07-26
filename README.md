@@ -21,8 +21,7 @@
 - 💞️ I’m looking to collaborate on any company
 
 - 👨‍💻 I’m already on this project on **HEALTHCARE MANAGEMENT SYSTEM(Health Plus) , ONLINE PSYCHOLOGICAL COUNSELING SYSTEM(Mind Info) , STUDENT PERFORMANCE TRACKER(Web Application) , A Resource-Aware Machine Learning and Quantum Framework for Depression Detection with
-Gender-Specific Interpretability | Python 3.10, PyCharm, NumPy, Pandas, Scikit-learn, SciPy, Qiskit,
-PennyLane, Matplotlib & Seaborn, SHAP**
+Gender-Specific Interpretability**
 
 - 🚀 Check out my Personal Portfolio [Portfolio](https://myportfolio-swagatamadhikary.netlify.app/)
 
